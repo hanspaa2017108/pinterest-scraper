@@ -1,6 +1,7 @@
 # Pinterest Scrapper
 
 A Python package for scraping images from Pinterest using Playwright with CLI functionality.
+https://pypi.org/project/pinterest-scrapper/1/
 
 ## Features
 
